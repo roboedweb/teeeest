@@ -1,2 +1,2 @@
 # Слава Україні!
-[переглянути](https://roboedwed.github.io/teeeest)
+[переглянути](https://roboedweb.github.io/teeeest/)
